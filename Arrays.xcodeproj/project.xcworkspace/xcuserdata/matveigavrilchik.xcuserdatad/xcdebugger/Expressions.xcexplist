@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "n-i">
+            </PersistentString>
+            <PersistentString
+               value = "n-(j+1)">
+            </PersistentString>
+            <PersistentString
+               value = "buffer">
+            </PersistentString>
+            <PersistentString
+               value = "n-j">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
